@@ -1,0 +1,11 @@
+#img-female{
+    display: none;
+}
+#img-male{
+    display: none;
+}
+.img-bennar{
+    width: 80%;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
